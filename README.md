@@ -2,5 +2,5 @@
 
 ### Notes
 Moisture Sensor Values:
-	- High #s: Dry
-	- Low #s: Wet 
+- High #s: Dry
+- Low #s: Wet 
